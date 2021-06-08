@@ -1,1 +1,9 @@
- this is git file normal text
+ this is git file normal tex
+
+
+
+
+
+
+
+Second commit for git
